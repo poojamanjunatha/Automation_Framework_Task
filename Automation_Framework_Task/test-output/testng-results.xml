@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74849" started-at="2020-06-23T07:23:34Z" finished-at="2020-06-23T07:24:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74849" started-at="2020-06-23T07:23:34Z" finished-at="2020-06-23T07:24:49Z">
+      <class name="com.demoOpenCart.Page_Tests">
+        <test-method status="PASS" signature="before_test()[pri:0, instance:com.demoOpenCart.Page_Tests@2892d68]" name="before_test" is-config="true" duration-ms="9838" started-at="2020-06-23T12:53:34Z" finished-at="2020-06-23T12:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_test -->
+        <test-method status="PASS" signature="login_Positive()[pri:1, instance:com.demoOpenCart.Page_Tests@2892d68]" name="login_Positive" duration-ms="16274" started-at="2020-06-23T12:53:44Z" finished-at="2020-06-23T12:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Positive -->
+        <test-method status="PASS" signature="Add_To_Wishlist()[pri:2, instance:com.demoOpenCart.Page_Tests@2892d68]" name="Add_To_Wishlist" duration-ms="25986" started-at="2020-06-23T12:54:01Z" finished-at="2020-06-23T12:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_To_Wishlist -->
+        <test-method status="PASS" signature="Add_To_Cart_From_Productview()[pri:3, instance:com.demoOpenCart.Page_Tests@2892d68]" name="Add_To_Cart_From_Productview" duration-ms="4122" started-at="2020-06-23T12:54:27Z" finished-at="2020-06-23T12:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_To_Cart_From_Productview -->
+        <test-method status="PASS" signature="Add_To_Cart_From_Wishlist()[pri:4, instance:com.demoOpenCart.Page_Tests@2892d68]" name="Add_To_Cart_From_Wishlist" duration-ms="18310" started-at="2020-06-23T12:54:31Z" finished-at="2020-06-23T12:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_To_Cart_From_Wishlist -->
+        <test-method status="PASS" signature="after_test()[pri:0, instance:com.demoOpenCart.Page_Tests@2892d68]" name="after_test" is-config="true" duration-ms="217" started-at="2020-06-23T12:54:49Z" finished-at="2020-06-23T12:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test -->
+      </class> <!-- com.demoOpenCart.Page_Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
